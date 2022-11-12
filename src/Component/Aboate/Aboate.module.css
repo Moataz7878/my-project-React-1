@@ -1,0 +1,22 @@
+.Aboate .hemoto{
+    width: 120px;
+    height: 4px;
+    background-color: rgb(255, 255, 255);
+    display:flex;
+    margin: 0px 6px;
+}
+.Aboate i {
+    font-size: 36px;
+     
+}
+.Aboate{
+    background-color: #1abc9c;
+    color: aliceblue;
+    margin-top:80px;
+    margin-bottom: 0px;
+}
+
+.Aboate .teet{
+    font-size: 56px;
+    font-weight: 700
+}

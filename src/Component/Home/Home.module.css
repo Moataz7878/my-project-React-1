@@ -1,0 +1,26 @@
+.header .test{
+    color: aliceblue;
+    margin-top: 20px;
+    font-weight: 700;
+    font-size: 70px;
+
+}
+ .header{
+    background-color: #1abc9c;
+    width: 100%;
+    height: 100vh;
+    margin-top: 20px ;
+    
+    
+}
+.header .hemoto{
+    width: 100px;
+    height: 4px;
+    background-color: rgb(255, 255, 255);
+    display:flex;
+    margin: 0px 6px;
+}
+.header i {
+    font-size: 36px;
+     
+}
